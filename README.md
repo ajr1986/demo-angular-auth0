@@ -1,5 +1,12 @@
 # Authapp
 
+## App demo using:
+
+- Angular
+- Auth0 with google
+
+To use, you need to configure the auth.service.ts with your application information.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
